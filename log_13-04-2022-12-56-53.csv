@@ -1,0 +1,4 @@
+,date,realtemp,settemp,PSUmillivolt,PSUmA,inPumpPercent,blotter,roof,fanpercent,outpumppercent,hysteresis
+0,13/04/2022 12:56:57,23.00,20.00,7000,0,0,L,O,50,50,1.00
+0,13/04/2022 12:56:58,23.00,20.00,7000,0,0,L,O,50,50,1.00
+0,13/04/2022 12:56:59,23.00,20.00,7000,0,0,L,O,50,50,1.00
