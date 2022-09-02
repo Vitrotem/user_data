@@ -1,0 +1,5 @@
+,date,realtemp,settemp,PSUmillivolt,PSUmA,inPumpPercent,blotter,roof,fanpercent,outpumppercent,hysteresis,valve,pickup
+0,30/08/2022 13:44:16,20.50,20.00,7000,0,0,L,O,50,50,1.00,0,0
+0,30/08/2022 13:44:57,20.50,20.00,7000,0,0,L,O,50,50,1.00,0,0
+0,30/08/2022 13:44:59,20.25,20.00,7000,0,0,L,O,50,50,1.00,0,0
+0,30/08/2022 13:45:00,20.00,20.00,7000,0,0,L,O,50,50,1.00,0,0
